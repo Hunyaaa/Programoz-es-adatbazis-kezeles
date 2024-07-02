@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Szuletesnap\Szuletesnap\bin\Debug\Szuletesnap.exe.config
+C:\Users\user\Desktop\Szuletesnap\Szuletesnap\bin\Debug\Szuletesnap.exe
+C:\Users\user\Desktop\Szuletesnap\Szuletesnap\bin\Debug\Szuletesnap.pdb
+C:\Users\user\Desktop\Szuletesnap\Szuletesnap\obj\Debug\Szuletesnap.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Szuletesnap\Szuletesnap\obj\Debug\Szuletesnap.Properties.Resources.resources
+C:\Users\user\Desktop\Szuletesnap\Szuletesnap\obj\Debug\Szuletesnap.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Szuletesnap\Szuletesnap\obj\Debug\Szuletesnap.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Szuletesnap\Szuletesnap\obj\Debug\Szuletesnap.exe
+C:\Users\user\Desktop\Szuletesnap\Szuletesnap\obj\Debug\Szuletesnap.pdb
+C:\Users\user\Desktop\Szuletesnap\Szuletesnap\obj\Debug\dATUM.Form1.resources
