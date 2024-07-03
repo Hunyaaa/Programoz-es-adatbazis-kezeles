@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\Pizza\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pizza\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\user\Desktop\Pizza\Pizza\obj\Debug\Pizza.pizzeria.resources
+C:\Users\user\Desktop\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Desktop\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Desktop\Pizza\Pizza\obj\Debug\Pizza.pdb
